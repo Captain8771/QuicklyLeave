@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.captain8771.quicklyleave.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "GameMenuScreenAccessor",
+    "ScreenAccessor"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}
